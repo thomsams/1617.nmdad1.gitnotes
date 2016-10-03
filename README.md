@@ -1,3 +1,11 @@
+> **My personal AHS info**
+    |   | |
+|---|---|
+| Student | Thomas Samson |
+| Academiejaar | 2016 - 2017 |
+| Richting | Multimediaproductie |
+| Afstudeerrichting | prodev |
+
 Mappen
 ------
 
