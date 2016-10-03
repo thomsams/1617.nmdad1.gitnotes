@@ -1,4 +1,3 @@
-> **My personal AHS info**
 |                     |                      |
 |---------------------|----------------------|
 | Student             | Thomas Samson        |
