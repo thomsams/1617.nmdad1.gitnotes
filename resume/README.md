@@ -1,6 +1,7 @@
 #Resume
 
-![Thomas]:https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/10365988_10208889224093295_6662661612148384487_n.jpg?oh=b4ec8e15ed887faff764aafbea3423e3&oe=589E8BCF
+[Thomas]:https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/10365988_10208889224093295_6662661612148384487_n.jpg?oh=b4ec8e15ed887faff764aafbea3423e3&oe=589E8BCF
+
 |                     |                      |
 |---------------------|----------------------|
 | Naam            | Thomas Samson        |
