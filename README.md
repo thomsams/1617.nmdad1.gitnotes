@@ -3,8 +3,8 @@
 | Student             | Thomas Samson        |
 | Academiejaar        | 2016 - 2017          |
 | Opleidingsonderdeel | NMDAD 1              |
-| Richting            | Multimediaproductie  |
-| Afstudeerrichting   | proDEV               |
+| Afstudeerrichting   | Multimediaproductie  |
+| Specialisatie       | proDEV               |
 | Onderwijsinstelling | Arteveldehogeschool  |
 
 Mappen
